@@ -5,7 +5,8 @@ import seaborn as sns
 import os
 
 GREY = '#f4f4f4'
-COLOR = '#355778'
+COLOR = '#355778'  # FT Blue
+# c9f1dd
 
 
 def generate_mosaic(names: list[str]) -> list:
