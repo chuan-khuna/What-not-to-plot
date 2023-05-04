@@ -17,7 +17,7 @@ def generate_mosaic(names: list[str]) -> list:
     return np.reshape(mosaic, (n_rows, col_per_row)).tolist()
 
 
-def plot_split_pie(df, ax_names='name', save=None):
+def plot_split_pie(df, colors=[COLOR, GREY], ax_names='name', save=None):
     """Plot that pie chart
 
     Args:
@@ -42,7 +42,7 @@ def plot_split_pie(df, ax_names='name', save=None):
                                    'linewidth': 0.5,
                                    'width': 0.6,
                                },
-                               colors=[COLOR, GREY] * len(df),
+                               colors=colors,
                                startangle=angle,
                                counterclock=True)
         cummulative += row['value']
