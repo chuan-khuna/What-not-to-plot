@@ -1,0 +1,51 @@
+primary:
+  ft-pink: '#FCD0B1'
+
+secondary:
+  claret: '#990F3D'
+  teal: '#0D7680'
+  oxford: '#0F5499'
+  slate: '#262A33'
+  paper: '#FFF1E5'
+  matisse: '#355778'
+
+tertiary:
+  mandarin: '#F83'
+  light-blue: '#00A0DD'
+  crimson: '#C00'
+  graphics-dark-blue: '#006F9B'
+  wheat: '#F2DFCE'
+  candy: '#FF7FAA'
+  wasabi: '#96CC28'
+  jade: '#00994D'
+  velvet: '#593380'
+  lemon: '#FFEC1A'
+  sky: '#CCE6FF'
+
+white:
+  white-10: '#FFF2E8'
+  white-20: '#FFF4EA'
+  white-40: '#FFF7EF'
+  white-60: '#FFF9F5'
+  white-80: '#FFFCFA'
+
+oxford:
+  oxford-30: '#082A4D'
+  oxford-40: '#0A3866'
+  oxford-50: '#0D4680'
+  oxford-60: '#0F5499'
+  oxford-70: '#1262B3'
+  oxford-80: '#1470CC'
+  oxford-90: '#177EE6'
+  oxford-100: '#198CFF'
+
+teal:
+  teal-20: '#052F33'
+  teal-30: '#08474D'
+  teal-40: '#0A5E66'
+  teal-50: '#0D7680'
+  teal-60: '#108D99'
+  teal-70: '#12A5B3'
+  teal-80: '#15BCCC'
+  teal-90: '#17D4E6'
+  teal-100: '#1AEBFF'
